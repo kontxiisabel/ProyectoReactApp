@@ -6,7 +6,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "popper.js": "^1.16.1",
     "react": "^16.4.0",
     "react-bootstrap-validation": "^0.1.11",
